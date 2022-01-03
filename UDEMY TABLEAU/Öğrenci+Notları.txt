@@ -1,0 +1,4 @@
+Öğrenci;Ders;Aldığı Not
+Ahmet;Matematik;85
+Zuhal;Fizik;80
+Hilal;İngilizce;90
